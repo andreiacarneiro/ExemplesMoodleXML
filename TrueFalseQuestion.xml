@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<question type="truefalse">
+	<answer fraction="100">
+		<text>Ceci est la bonne réponse</text>
+		<feedback><text>Bravo !</text></feedback>
+	</answer>
+	
+	<answer fraction="0">
+		<text>Une mauvaise réponse</text>
+		<feedback><text>Ooops!</text></feedback>
+	</answer>
+</question>
